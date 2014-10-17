@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pnv:home|Door43 (pnv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pnv|d43-pnv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pnv/archive/master.zip|d43-pnv.zip]]
+
+**Recent Changes**
+{{changes>ns = pnv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pnv|Ethnologue data]]
+
